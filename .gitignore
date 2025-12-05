@@ -1,0 +1,17 @@
+# Секретные файлы
+credentials.json
+config.py
+.env
+*.log
+
+# Виртуальное окружение
+venv/
+env/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Прочее
+.DS_Store
